@@ -1,0 +1,6 @@
+2024-12-17 23:44:33,834 - INFO - Loaded config: ('localhost', 'root', 'root', 'mysql_mssql_migration_dev', 3306, 'Ankita', 'mysql_mssql_migration_dev', True, 'Data_Migration', 'Data_Migration')
+2024-12-17 23:44:33,900 - INFO - Connected to MySQL successfully.
+2024-12-17 23:44:34,008 - INFO - Connected to MSSQL successfully.
+2024-12-17 23:44:34,011 - INFO - Insert query: INSERT INTO Data_Migration (id, name, description, age, quantity, price, discount_rate, is_active, created_at, comments) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2024-12-17 23:44:34,124 - INFO - Successfully inserted 50 rows into MSSQL table 'Data_Migration'.
+2024-12-17 23:44:34,125 - INFO - Data migration completed successfully!

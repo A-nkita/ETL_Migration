@@ -1,0 +1,7 @@
+{
+  "host" : "localhost",
+  "user" : "root",
+  "password" : "root",
+  "database" : "mysql_mssql_migration_test",
+  "port" : 3306
+}
