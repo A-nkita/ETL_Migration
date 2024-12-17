@@ -1,0 +1,7 @@
+{
+  "host" : "localhost",
+  "user" : "root",
+  "password" : "root",
+  "database" : "prod_migration",
+  "port" : 3306
+}

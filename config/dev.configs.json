@@ -1,0 +1,12 @@
+{
+    "mysql_host": "localhost",
+    "mysql_user": "root",
+    "mysql_password": "root",
+    "mysql_database": "mysql_mssql_migration_dev",
+    "mysql_port": 3306,
+    "mssql_host": "Ankita",
+    "mssql_database": "mysql_mssql_migration_dev",
+    "trusted_connection": true,
+    "mysql_table": "Data_Migration",
+    "mssql_table": "Data_Migration"
+}
